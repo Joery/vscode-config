@@ -1,0 +1,19 @@
+{
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.git": true,
+    "**/.idea": true,
+    "**/venv": true
+  },
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "workbench.colorTheme": "Material Theme",
+  "telemetry.telemetryLevel": "off",
+  "workbench.startupEditor": "none"
+}
